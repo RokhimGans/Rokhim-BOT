@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mimim-creator/Rokhim-BOT.git"
+    "url": "git+https://github.com/RokhimGans/Rokhim-BOT.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mimim-creator/Rokhim-BOT/issues"
+    "url": "https://github.com/RokhimGans/Rokhim-BOT/issues"
   },
-  "homepage": "https://github.com/mimim-creator/Rokhim-BOT#readme"
+  "homepage": "https://github.com/RokhimGans/Rokhim-BOT#readme"
 }
